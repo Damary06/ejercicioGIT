@@ -1,0 +1,2 @@
+# ejercicioGIT
+ejerdcicio tipti
